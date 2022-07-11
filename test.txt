@@ -1,1 +1,7 @@
-Google Contacts originated as the built-in contacts manager in Gmail, which was introduced in as early as 2007.[1] It was later released as an Android app for Nexus devices in 2010,[2] before it became available for all Android phones in 2015. [3] A standalone web application was released the same year, featuring a revamped user interface.[4] It returned to Gmail in the form of a sidebar in 2020 as part of Google Workspace.[5]
+Google Contacts originated as the built-in contacts manager in Gmail, which was introduced in as early as 2007.[1] It was later released as an Android app for Nexus devices in 2010,[2] before it became available for all Android phones in 2015. [3] A standalone web application was released the same year, featuring a revamped user interface.[4] It returned to Gmail in the form of a sidebar in 2020 as part of Google Workspace.
+
+
+
+Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide.[1] A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols.
+
+At its launch in 2004, Gmail provided a storage capacity of one gigabyte per user, which was significantly higher than its competitors offered at the time. Today, the service comes with 15 gigabytes of storage. Users can receive emails up to 50 megabytes in size, including attachments, while they can send emails up to 25 megabytes. In order to send larger files, users can insert files from Google Drive into the message. Gmail has a search-oriented interface and a "conversation view" similar to an Internet forum. The service is notable among website developers for its early adoption of Ajax.
