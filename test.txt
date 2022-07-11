@@ -5,3 +5,13 @@ Google Contacts originated as the built-in contacts manager in Gmail, which was 
 Gmail is a free email service provided by Google. As of 2019, it had 1.5 billion active users worldwide.[1] A user typically accesses Gmail in a web browser or the official mobile app. Google also supports the use of email clients via the POP and IMAP protocols.
 
 At its launch in 2004, Gmail provided a storage capacity of one gigabyte per user, which was significantly higher than its competitors offered at the time. Today, the service comes with 15 gigabytes of storage. Users can receive emails up to 50 megabytes in size, including attachments, while they can send emails up to 25 megabytes. In order to send larger files, users can insert files from Google Drive into the message. Gmail has a search-oriented interface and a "conversation view" similar to an Internet forum. The service is notable among website developers for its early adoption of Ajax.
+
+
+Microsoft Outlook is a personal information manager software system from Microsoft, available as a part of the Microsoft Office suite. Though primarily an email client, Outlook also includes such functions as calendaring, task managing, contact managing, note-taking, journal logging and web browsing.
+
+Individuals can use Outlook as a stand-alone application; organizations can deploy it as multi-user software (through Microsoft Exchange Server or SharePoint) for such shared functions as mailboxes, calendars, folders, data aggregation (i.e., SharePoint lists), and appointment scheduling. Microsoft has released apps for most mobile platforms, including iOS and Android. In addition, Windows Phone devices can synchronize almost all Outlook data to Outlook Mobile. Using Microsoft Visual Studio, developers can also build their own custom software that works with Outlook and Office components.[5]
+
+In March 2020, Microsoft announced the launch of a series of new features to appeal to business customers of its Teams platform, in addition to the features[which?] introduced the previous month. The chat and collaboration module now includes more efficient and integrated way points, designed to simplify group work for organizations and to encourage such an organization to adopt the Microsoft platform to become the go-to company chat-platform.
+
+
+
